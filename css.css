@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300&display=swap');
+body, table, td, input {font-size:19px;font-family:'Noto Sans KR', sans-serif,"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";line-height:120%; font-weight:100;}
+A:link    {color:#000; text-decoration:none;}
+A:visited {color:#000; text-decoration:none;}
+A:active  {color:#000; text-decoration:none;}
+A:hover  {color:#000; text-decoration:none;}
+
+li {display:inline-block;}
+/*main menu */
+.mm_A{display:inline-block;padding:5px 8px 5px 8px;border:0px #fff solid;color:#aaa;}
+.mm_A_on{display:inline-block;padding:5px 8px 5px 8px;border:0px #fff solid;color:#000;}
+
+.lib{ background-color:#FFFF33;}
+.cursor{ cursor:default}
+
+.g_on{color:#000;background-color:#fafafa;padding:10px;display:inline-block;}
+
+.h_on{color:#000;background-color:#fafafa;width:270px;padding:10px;display:inline-block;}
+.h_off{color:#AAA;background-color:#fafafa;width:250px;cursor:pointer;padding:10px;display:inline-block;}
+
+.m_on{color:#000; background-color:#fff;padding:5px 8px 5px 8px;display:inline-block;}
+.m_off{color:#AAA;background-color:#fff;cursor:pointer;padding:5px 8px 5px 8px;display:inline-block;}
+.m_box_on{vertical-align:top;display:inline-block;}
+.m_box{vertical-align:top;display:none;}
+.m_t{line-height:100%}
+.m_s{color:#aaaaaa;line-height:100%;margin-top:0px;margin-bottom:15px;}
+.m_link{color:blue;text-decoration:underline;font-size:15px;}
+.HL{font-size:31px;color:#000;text-align:left;line-height:100%;}
+.HL1{font-size:24px;color:#999;text-align:left;}
+.HL2{font-size:22px;color:#aaa;text-align:left;}
+.LK{text-decoration:underline;color:#4455aa;text-align:left;}
+.Play{font-size:22px;font-weight: bold;color:#C70039;}
+.en{color:#59AFFA;}
+.kr{color:#8CDDFB;}
